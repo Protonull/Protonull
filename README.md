@@ -24,6 +24,15 @@ Enthusiast programmer and modder currently working on plugins, meta services, an
 * [js-utilities](https://github.com/Protonull/js-utilities): Library of JavaScript utilities.
 * [fugit](https://github.com/Protonull/fugit): Git utility for [re]establishing git submodules from a `.gitmodules` file.
 
+## Archived Projects
+
+* [Circleplosion](https://github.com/Protonull/Circleplosion): DOM-based game made for fun.
+* [CarGame](https://github.com/Protonull/CarGame): JavaScript game made during college.
+* [SpaceInvaders](https://github.com/Protonull/SpaceInvaders): ImpactJS game made during college.
+* [ZombieMath](https://github.com/Protonull/ZombieMath): ImpactJS game made during a university GameJam.
+* [BulletTerror](https://github.com/Protonull/BulletTerror): ImpactJS game made for fun. Successor to [Circleplosion](https://github.com/Protonull/Circleplosion).
+* [AddressBook](https://github.com/Protonull/AddressBook): Java based technical assignment.
+
 <!--
 **Protonull/Protonull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
