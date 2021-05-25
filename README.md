@@ -15,12 +15,10 @@ Enthusiast programmer and modder currently working on plugins, meta services, an
 * [CivRepoMaker](https://github.com/Protonull/CivRepoMaker): Generates the CivRepo maven repository from the megarepo.
 * [BukkitReport](https://github.com/Protonull/BukkitReport): Compiles specific data from each Minecraft version, if possible.
 * [SpigotVersions](https://github.com/Protonull/SpigotVersions): List of Spigot versions and their respective API and Maven versions.
-* [metaslave](https://github.com/Protonull/metaslave): Rules legal bot framework.
 * [CivStorage](https://github.com/CivStorage): Place for long term storage of meta game information.
 
 ## Code Commons
 
-* [parent-pom](https://github.com/Protonull/parent-pom): Basic parent POM that covers what Maven ought to cover natively by default.
 * [js-utilities](https://github.com/Protonull/js-utilities): Library of JavaScript utilities.
 * [fugit](https://github.com/Protonull/fugit): Git utility for [re]establishing git submodules from a `.gitmodules` file.
 
