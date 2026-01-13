@@ -6,7 +6,7 @@ I've followed Zig in [its decision to move to Codeberg](https://ziglang.org/news
 - [CivVoxelMap](https://codeberg.org/netherwart/CivVoxelMap)
 - [AdventOfCode](https://codeberg.org/netherwart/AdventOfCode)
 
-Anything that remains here on Github is either in the process of being moved, or cannot be moved for other reasons (eg: AzerothCore and Dlang Code not supporting Codeberg).
+Anything that remains here on Github is either in the process of being moved, or cannot be moved for other reasons (eg: AzerothCore not supporting Codeberg).
 
 <!--
 **Protonull/Protonull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
