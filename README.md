@@ -2,7 +2,7 @@
 
 I've followed Zig in [its decision to move to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/), you can find my profile [here](https://codeberg.org/netherwart?q=&tab=repositories&archived=0&sort=recentupdate). Here are some quick links:
 
-- [CivianMod](https://codeberg.org/netherwart/CivianMod)
+- [CivianMods](https://codeberg.org/netherwart/CivianMods)
 - [CivVoxelMap](https://codeberg.org/netherwart/CivVoxelMap)
 - [AdventOfCode](https://codeberg.org/netherwart/AdventOfCode)
 
